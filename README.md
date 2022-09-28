@@ -11,11 +11,11 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOSASIH/Idcotech/main?labpath=README.md)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5740acf169d046208351393ca6b48ba6)](https://www.codacy.com/gh/KOSASIH/Idcotech/dashboard?utm_source=github.com&utm_medium=referral&utm_content=KOSASIH/Idcotech&utm_campaign=Badge_Grade)
 
-# 1. IDCOTECH
+# IDCOTECH
 
 Identification system for the molecular basis of coronary heart disease powered by AI ( Artificial Intelligence ) and machine learning algorithms.
 
-# 2. Description
+# Description
 
 Cardiovascular disease is the leading cause of death in industrialized countries and a major cause of disability. This is caused by coronary heart disease (CHD), which is not only an individual burden, but also an economic one. The diagnosis of CHD and its development are complex processes that involve multiple risk factors that have been identified through epidemiological studies (smoking, obesity, hypertension, diabetes mellitus, hyperlipidemia). Each risk factor has its own determinant and subtle mechanism that makes it difficult to diagnose accurately and prevent clinically.
 
@@ -33,11 +33,11 @@ There are many factors which may affect the outcome of any given patient, includ
 
 The company focuses on providing solutions that help improve patient care by providing the most accurate diagnosis possible. This will allow physicians to provide better treatment options for their patients, which will greatly improve patient outcomes and quality of life.
 
-# 3. Mission
+# Mission
 
 To revolutionize the field of atherosclerosis, leading the fight against this scourge affecting thousands of patients around the world.
 
-# 4. Value Proposition
+# Value Proposition
 
 We are solution providers for aiding for fast and cheap diagnosis for patients. We provide a high level of accuracy diagnosis system with no side effects and cost-effective tools for patient management. Our system is user-friendly and proven accurate in various research studies. Let us know if you want to join our revolution of more accurate diagnoses, more public awareness, faster recognition of epidemics, less need for surgeries and overall improved lives from the disease.
 
@@ -62,7 +62,7 @@ Intelligent Diagnosis for Coronary Heart Disease Powered by AI: IDCOTECH uses Ar
 
 IDCOTECH is the first Accelerator project focused on molecular identification of coronary heart disease.(CHD) Our solution combines Artificial Intelligence (AI) and machine learning algorithms to provide doctors and patients with comprehensive information about CHD. For example, IDCOTECH could detect Alport syndrome—a hereditary disease which results in heart failure—by analyzing retinal images. Many small molecules, proteins, or lipids can be identified in a fast and simple way by our system.
 
-# 5. Notebook
+# Notebook
 
 1. [IDCOTECH AutoAI and timeseries data for PM2.5](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/4efd0937-3e06-43e1-b2e4-117a77f036ba/view?access_token=b5c297a253d616125535cb4485fb911ce2f7facf6386ba2097d0156c161e2630)
 
