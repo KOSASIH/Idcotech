@@ -17,7 +17,21 @@ Identification system for the molecular basis of coronary heart disease powered 
 
 # Description
 
-Identification system for the molecular basis of coronary heart disease powered by AI ( Artificial Intelligence ) and machine learning algorithms. Using these tools we can identify the root cause of your problem, provide a solution and a mechanism to access further treatment and management through our online platform.
+Cardiovascular disease is the leading cause of death in industrialized countries and a major cause of disability. This is caused by coronary heart disease (CHD), which is not only an individual burden, but also an economic one. The diagnosis of CHD and its development are complex processes that involve multiple risk factors that have been identified through epidemiological studies (smoking, obesity, hypertension, diabetes mellitus, hyperlipidemia). Each risk factor has its own determinant and subtle mechanism that makes it difficult to diagnose accurately and prevent clinically.
+
+IDCOTECH is a Identification system for the molecular basis of coronary heart disease powered by AI ( Artificial Intelligence ) and machine learning algorithms. Using these tools we can identify the root cause of your problem, provide a solution and a mechanism to access further treatment and management through our online platform.
+
+IDCOTECH is a medical technology company that specializes in the identification system for the molecular basis of coronary heart disease powered by AI ( Artificial Intelligence ) and machine learning algorithms. This identification system allows us to predict individuals at risk for coronary heart disease using their genetic information.
+
+The IDCOTECH is an identification system for the molecular basis of coronary heart disease powered by AI ( Artificial Intelligence ) and machine learning algorithms. IDCOTECH is a web based platform that can be accessed from anywhere in the world.
+
+The IDCOTECH platform will provide a systematic approach to identifying risk factors associated with coronary heart disease. The ultimate goal of this project is to provide a resource for physicians and researchers to use as a diagnostic tool for identifying risk factors for coronary heart disease.
+
+The IDCOTECH platform is based on the hypothesis that there are certain biomarkers present in blood samples of patients with coronary heart disease which can be used as diagnostic indicators for predicting the risk of developing coronary heart disease.
+
+There are many factors which may affect the outcome of any given patient, including their genetic makeup, lifestyle habits such as diet and exercise, family history and other environmental factors such as air pollution or stress levels. It is difficult to pinpoint exactly what causes each individual case of CHD because these factors are often hard to measure or quantify accurately enough for clinical purposes.
+
+The company focuses on providing solutions that help improve patient care by providing the most accurate diagnosis possible. This will allow physicians to provide better treatment options for their patients, which will greatly improve patient outcomes and quality of life.
 
 # Mission
 
