@@ -33,19 +33,17 @@ We are generating a new paradigm in the treatment of cardiometabolic diseases by
 
 The IDCOTECH Data Analytics Platform can help identify coronary artery disease early and act upon it, helping to save the lives of millions of people who are unlikely to receive proper medical attention in the near future due to:
 
-- Limited awareness 
-- Lack of funds for treatment 
+- Limited awareness
+- Lack of funds for treatment
 - Lack of access to hospitals.
 
-We offer innovative solutions for identification of pathogens, particularly bacteria and viruses for the detection of diseases like coronary heart disease : 
+We offer innovative solutions for identification of pathogens, particularly bacteria and viruses for the detection of diseases like coronary heart disease :
 
-a) Identification system for the molecular basis of coronary heart disease 
+a) Identification system for the molecular basis of coronary heart disease
 b) We provide innovative solutions for identification of pathogens, particularly bacteria and viruses for the detection of diseases like coronary heart disease with our high-throughput technologies using artificial intelligence, machine learning and deep learning techniques.
 
 Intelligent Diagnosis for Coronary Heart Disease Powered by AI: IDCOTECH uses Artificial Intelligence (AI) and machine learning algorithms to accurately predict the molecular profile of a patient's coronary heart disease. It is a unique platform by which physicians can make better decisions to reduce morbidity and mortality rates of patients. IDCOTECH also allows on-demand access to top-notch cardiologists from across the globe via video consultation, providing them with a more convenient, remote patient care solution.
 
 IDCOTECH is the first Accelerator project focused on molecular identification of coronary heart disease.(CHD) Our solution combines Artificial Intelligence (AI) and machine learning algorithms to provide doctors and patients with comprehensive information about CHD. For example, IDCOTECH could detect Alport syndrome—a hereditary disease which results in heart failure—by analyzing retinal images. Many small molecules, proteins, or lipids can be identified in a fast and simple way by our system.
-
-
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Idcotech">IDCOTECH</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
