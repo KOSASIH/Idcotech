@@ -11,11 +11,11 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOSASIH/Idcotech/main?labpath=README.md)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5740acf169d046208351393ca6b48ba6)](https://www.codacy.com/gh/KOSASIH/Idcotech/dashboard?utm_source=github.com&utm_medium=referral&utm_content=KOSASIH/Idcotech&utm_campaign=Badge_Grade)
 
-# IDCOTECH
+# 1. IDCOTECH
 
 Identification system for the molecular basis of coronary heart disease powered by AI ( Artificial Intelligence ) and machine learning algorithms.
 
-# Description
+# 2. Description
 
 Cardiovascular disease is the leading cause of death in industrialized countries and a major cause of disability. This is caused by coronary heart disease (CHD), which is not only an individual burden, but also an economic one. The diagnosis of CHD and its development are complex processes that involve multiple risk factors that have been identified through epidemiological studies (smoking, obesity, hypertension, diabetes mellitus, hyperlipidemia). Each risk factor has its own determinant and subtle mechanism that makes it difficult to diagnose accurately and prevent clinically.
 
@@ -33,11 +33,11 @@ There are many factors which may affect the outcome of any given patient, includ
 
 The company focuses on providing solutions that help improve patient care by providing the most accurate diagnosis possible. This will allow physicians to provide better treatment options for their patients, which will greatly improve patient outcomes and quality of life.
 
-# Mission
+# 3. Mission
 
 To revolutionize the field of atherosclerosis, leading the fight against this scourge affecting thousands of patients around the world.
 
-# Value Proposition
+# 4. Value Proposition
 
 We are solution providers for aiding for fast and cheap diagnosis for patients. We provide a high level of accuracy diagnosis system with no side effects and cost-effective tools for patient management. Our system is user-friendly and proven accurate in various research studies. Let us know if you want to join our revolution of more accurate diagnoses, more public awareness, faster recognition of epidemics, less need for surgeries and overall improved lives from the disease.
 
@@ -60,9 +60,10 @@ Intelligent Diagnosis for Coronary Heart Disease Powered by AI: IDCOTECH uses Ar
 
 IDCOTECH is the first Accelerator project focused on molecular identification of coronary heart disease.(CHD) Our solution combines Artificial Intelligence (AI) and machine learning algorithms to provide doctors and patients with comprehensive information about CHD. For example, IDCOTECH could detect Alport syndrome—a hereditary disease which results in heart failure—by analyzing retinal images. Many small molecules, proteins, or lipids can be identified in a fast and simple way by our system.
 
-# Notebook
+# 5. Notebook
 
 1. [IDCOTECH AutoAI and timeseries data for PM2.5](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/4efd0937-3e06-43e1-b2e4-117a77f036ba/view?access_token=b5c297a253d616125535cb4485fb911ce2f7facf6386ba2097d0156c161e2630)
+ 
 2. [IDCOTECH The nurse assignment problem](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/03d03c32-8149-41a4-93b3-0f10d9d4a505/view?access_token=9d1a44e1c11aad9b59f27d931f42c19d7c9a96fbfdc11f93f29cd4d127d5ecf8)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Idcotech">IDCOTECH</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
