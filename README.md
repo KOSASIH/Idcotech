@@ -56,6 +56,7 @@ The IDCOTECH Data Analytics Platform can help identify coronary artery disease e
 We offer innovative solutions for identification of pathogens, particularly bacteria and viruses for the detection of diseases like coronary heart disease :
 
 a) Identification system for the molecular basis of coronary heart disease
+
 b) We provide innovative solutions for identification of pathogens, particularly bacteria and viruses for the detection of diseases like coronary heart disease with our high-throughput technologies using artificial intelligence, machine learning and deep learning techniques.
 
 Intelligent Diagnosis for Coronary Heart Disease Powered by AI: IDCOTECH uses Artificial Intelligence (AI) and machine learning algorithms to accurately predict the molecular profile of a patient's coronary heart disease. It is a unique platform by which physicians can make better decisions to reduce morbidity and mortality rates of patients. IDCOTECH also allows on-demand access to top-notch cardiologists from across the globe via video consultation, providing them with a more convenient, remote patient care solution.
