@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c99e9277af7d438987a5ddd623b31501)](https://app.codacy.com/gh/KOSASIH/Idcotech?utm_source=github.com&utm_medium=referral&utm_content=KOSASIH/Idcotech&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/KOSASIH/Idcotech/actions/workflows/blank.yml/badge.svg)](https://github.com/KOSASIH/Idcotech/actions/workflows/blank.yml)
 [![Codacy Security Scan](https://github.com/KOSASIH/Idcotech/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Idcotech/actions/workflows/codacy.yml)
 [![njsscan sarif](https://github.com/KOSASIH/Idcotech/actions/workflows/njsscan.yml/badge.svg)](https://github.com/KOSASIH/Idcotech/actions/workflows/njsscan.yml)
