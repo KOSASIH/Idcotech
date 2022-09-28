@@ -62,3 +62,6 @@ IDCOTECH is the first Accelerator project focused on molecular identification of
 
 # Notebook
 
+1. [IDCOTECH AutoAI and timeseries data for PM2.5](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/4efd0937-3e06-43e1-b2e4-117a77f036ba/view?access_token=b5c297a253d616125535cb4485fb911ce2f7facf6386ba2097d0156c161e2630)
+2. [IDCOTECH The nurse assignment problem](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/03d03c32-8149-41a4-93b3-0f10d9d4a505/view?access_token=9d1a44e1c11aad9b59f27d931f42c19d7c9a96fbfdc11f93f29cd4d127d5ecf8)
+
