@@ -60,4 +60,8 @@ Intelligent Diagnosis for Coronary Heart Disease Powered by AI: IDCOTECH uses Ar
 
 IDCOTECH is the first Accelerator project focused on molecular identification of coronary heart disease.(CHD) Our solution combines Artificial Intelligence (AI) and machine learning algorithms to provide doctors and patients with comprehensive information about CHD. For example, IDCOTECH could detect Alport syndrome—a hereditary disease which results in heart failure—by analyzing retinal images. Many small molecules, proteins, or lipids can be identified in a fast and simple way by our system.
 
+# Notebook
+
+1. [IDCOTECH DDO Model with Watson Machine Learning ](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/1d819b2f-2a7a-4512-89b0-04103171947f/view?access_token=ed18fede2c8cb8cfa2ac7cda93143892a1c0ccb9e9390b756c204f2595bd7ec0)
+2. 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Idcotech">IDCOTECH</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
