@@ -15,7 +15,7 @@
 
 Identification system for the molecular basis of coronary heart disease powered by AI ( Artificial Intelligence ) and machine learning algorithms.
 
-# Description
+1. Description
 
 Cardiovascular disease is the leading cause of death in industrialized countries and a major cause of disability. This is caused by coronary heart disease (CHD), which is not only an individual burden, but also an economic one. The diagnosis of CHD and its development are complex processes that involve multiple risk factors that have been identified through epidemiological studies (smoking, obesity, hypertension, diabetes mellitus, hyperlipidemia). Each risk factor has its own determinant and subtle mechanism that makes it difficult to diagnose accurately and prevent clinically.
 
