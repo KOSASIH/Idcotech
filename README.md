@@ -69,4 +69,5 @@ IDCOTECH is the first Accelerator project focused on molecular identification of
 
  [IDCOTECH The nurse assignment problem](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/03d03c32-8149-41a4-93b3-0f10d9d4a505/view?access_token=9d1a44e1c11aad9b59f27d931f42c19d7c9a96fbfdc11f93f29cd4d127d5ecf8)
 
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Idcotech">IDCOTECH</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
