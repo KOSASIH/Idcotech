@@ -47,11 +47,11 @@ We are generating a new paradigm in the treatment of cardiometabolic diseases by
 
 The IDCOTECH Data Analytics Platform can help identify coronary artery disease early and act upon it, helping to save the lives of millions of people who are unlikely to receive proper medical attention in the near future due to:
 
-- Limited awareness
+1. Limited awareness
 
-- Lack of funds for treatment
+2. Lack of funds for treatment
 
-- Lack of access to hospitals
+3. Lack of access to hospitals
 
 We offer innovative solutions for identification of pathogens, particularly bacteria and viruses for the detection of diseases like coronary heart disease :
 
