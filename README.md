@@ -1,3 +1,6 @@
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 [![CI](https://github.com/KOSASIH/Idcotech/actions/workflows/blank.yml/badge.svg)](https://github.com/KOSASIH/Idcotech/actions/workflows/blank.yml)
 [![Codacy Security Scan](https://github.com/KOSASIH/Idcotech/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Idcotech/actions/workflows/codacy.yml)
 [![njsscan sarif](https://github.com/KOSASIH/Idcotech/actions/workflows/njsscan.yml/badge.svg)](https://github.com/KOSASIH/Idcotech/actions/workflows/njsscan.yml)
